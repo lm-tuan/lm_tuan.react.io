@@ -45,18 +45,6 @@ const Home : React.FC = (props: any) => {
                 <Card>
                 <Card.Title>Phone</Card.Title>
                 <Row>
-                    {/* <Col xs={6} md={4}>
-                        <HomePhone/>
-                    </Col>
-                    <Col xs={6} md={4}>
-                        <HomePhone/>
-                    </Col>
-                    <Col xs={6} md={4}>
-                        <HomePhone/>
-                    </Col>
-                    <Col xs={6} md={4}>
-                        <HomePhone/>
-                    </Col> */}
                     {lstPhone}
                 </Row>
                 </Card>
